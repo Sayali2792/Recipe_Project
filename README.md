@@ -1,2 +1,2 @@
 # Recipe_Project
-Project by HTML,CSS
+Project using HTML,CSS
